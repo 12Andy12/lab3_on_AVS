@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1664533207 source:/home/andrey/Program/Arhitecture/Arh/main.cpp
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<sys/time.h>
+	<iostream>
+	<vector>
+
